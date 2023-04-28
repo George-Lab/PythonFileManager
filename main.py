@@ -1,6 +1,5 @@
-from source import interface as ntrfc
+from source.MainFunction import main
 
-# Initially fill the frame
-ntrfc.fnc.path_change("")
-# start the program
-ntrfc.glb.root.mainloop()
+
+if __name__ == "__main__":
+    main()
