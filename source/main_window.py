@@ -1,5 +1,3 @@
-# from source import interface as ntrfc
-
 import tkinter as tk
 import os
 import pathlib
